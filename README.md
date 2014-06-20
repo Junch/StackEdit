@@ -1,0 +1,1 @@
+Test whether it can cooperate with SlackEdit
